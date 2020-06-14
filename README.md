@@ -1,5 +1,6 @@
 # ds_salary_proj
-<<<<<<< HEAD
-=======
 
->>>>>>> 6b07141130825b3602640bab66d33f59f1ef76fc
+## Resources 
+https://github.com/arapfaik/scraping-glassdoor-selenium
+
+https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
