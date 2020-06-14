@@ -61,7 +61,7 @@ def get_jobs(keyword, num_jobs, verbose,path,slp_time):
                 break
 
             job_button.click()  #You might 
-            time.sleep(1)
+            time.sleep(15)
             collected_successfully = False
             
             while not collected_successfully:
