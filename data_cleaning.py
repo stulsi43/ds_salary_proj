@@ -66,5 +66,5 @@ df.excel_yn.value_counts()
 
 
 
-##df.to_csv('salary_data_cleaned.csv',index = False)
+df.to_csv('salary_data_cleaned.csv',index = False)
 
